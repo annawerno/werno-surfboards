@@ -41,6 +41,11 @@ h1 {
   visibility: hidden;
 }
 
+.blur {
+  z-index: 1;
+  filter: blur(4px);
+}
+
 /* MODAL WINDOW - NEWSLETTER  */
 .modal-newsletter {
   width: 52rem;
@@ -64,6 +69,7 @@ h1 {
   position: absolute;
   top: 10px;
   right: 10px;
+  cursor: pointer;
 }
 .modal-vector {
   position: absolute;
