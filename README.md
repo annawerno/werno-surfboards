@@ -7,3 +7,5 @@ View this project here: https://www.figma.com/file/z8rRbTXrPUu3bdemIA2u51/Werno-
 
 2️⃣ Using VS Code, built the first phase of the website, the homepage. This currently includes a responsive design from 715px +
 Deployed via Netlify, view this here: https://werno-surfboards.netlify.app/
+
+3️⃣ Added the first lines of JavaScript to create the modal pop up window to subscribe to a newsletter. Updated deployment on Netlify
